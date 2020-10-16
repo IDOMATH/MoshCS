@@ -1,0 +1,12 @@
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\btsch\Documents\Coding\C#\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache

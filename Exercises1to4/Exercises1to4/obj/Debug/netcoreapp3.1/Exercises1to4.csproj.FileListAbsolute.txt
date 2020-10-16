@@ -1,0 +1,13 @@
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\bin\Debug\netcoreapp3.1\Exercises1to4.exe
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\bin\Debug\netcoreapp3.1\Exercises1to4.deps.json
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\bin\Debug\netcoreapp3.1\Exercises1to4.runtimeconfig.json
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\bin\Debug\netcoreapp3.1\Exercises1to4.runtimeconfig.dev.json
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\bin\Debug\netcoreapp3.1\Exercises1to4.dll
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\bin\Debug\netcoreapp3.1\Exercises1to4.pdb
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\obj\Debug\netcoreapp3.1\Exercises1to4.csprojAssemblyReference.cache
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\obj\Debug\netcoreapp3.1\Exercises1to4.AssemblyInfoInputs.cache
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\obj\Debug\netcoreapp3.1\Exercises1to4.AssemblyInfo.cs
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\obj\Debug\netcoreapp3.1\Exercises1to4.csproj.CoreCompileInputs.cache
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\obj\Debug\netcoreapp3.1\Exercises1to4.dll
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\obj\Debug\netcoreapp3.1\Exercises1to4.pdb
+C:\Users\btsch\Documents\Coding\C#\Exercises1to4\Exercises1to4\obj\Debug\netcoreapp3.1\Exercises1to4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\bin\Debug\netcoreapp3.1\Exercises2.exe
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\bin\Debug\netcoreapp3.1\Exercises2.deps.json
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\bin\Debug\netcoreapp3.1\Exercises2.runtimeconfig.json
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\bin\Debug\netcoreapp3.1\Exercises2.runtimeconfig.dev.json
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\bin\Debug\netcoreapp3.1\Exercises2.dll
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\bin\Debug\netcoreapp3.1\Exercises2.pdb
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\obj\Debug\netcoreapp3.1\Exercises2.AssemblyInfoInputs.cache
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\obj\Debug\netcoreapp3.1\Exercises2.AssemblyInfo.cs
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\obj\Debug\netcoreapp3.1\Exercises2.csproj.CoreCompileInputs.cache
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\obj\Debug\netcoreapp3.1\Exercises2.dll
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\obj\Debug\netcoreapp3.1\Exercises2.pdb
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\obj\Debug\netcoreapp3.1\Exercises2.genruntimeconfig.cache
+C:\Users\btsch\Documents\Coding\C#\Exercises2\Exercises2\obj\Debug\netcoreapp3.1\Exercises2.csprojAssemblyReference.cache

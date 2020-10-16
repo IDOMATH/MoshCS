@@ -1,0 +1,12 @@
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\bin\Debug\netcoreapp3.1\ReferenceVsValue.exe
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\bin\Debug\netcoreapp3.1\ReferenceVsValue.deps.json
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\bin\Debug\netcoreapp3.1\ReferenceVsValue.runtimeconfig.json
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\bin\Debug\netcoreapp3.1\ReferenceVsValue.runtimeconfig.dev.json
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\bin\Debug\netcoreapp3.1\ReferenceVsValue.dll
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\bin\Debug\netcoreapp3.1\ReferenceVsValue.pdb
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\obj\Debug\netcoreapp3.1\ReferenceVsValue.AssemblyInfoInputs.cache
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\obj\Debug\netcoreapp3.1\ReferenceVsValue.AssemblyInfo.cs
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\obj\Debug\netcoreapp3.1\ReferenceVsValue.csproj.CoreCompileInputs.cache
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\obj\Debug\netcoreapp3.1\ReferenceVsValue.dll
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\obj\Debug\netcoreapp3.1\ReferenceVsValue.pdb
+C:\Users\btsch\Documents\Coding\C#\ReferenceVsValue\ReferenceVsValue\obj\Debug\netcoreapp3.1\ReferenceVsValue.genruntimeconfig.cache

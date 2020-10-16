@@ -1,0 +1,13 @@
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\bin\Debug\netcoreapp3.1\Randoms.exe
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\bin\Debug\netcoreapp3.1\Randoms.deps.json
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\bin\Debug\netcoreapp3.1\Randoms.runtimeconfig.json
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\bin\Debug\netcoreapp3.1\Randoms.runtimeconfig.dev.json
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\bin\Debug\netcoreapp3.1\Randoms.dll
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\bin\Debug\netcoreapp3.1\Randoms.pdb
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\obj\Debug\netcoreapp3.1\Randoms.csprojAssemblyReference.cache
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\obj\Debug\netcoreapp3.1\Randoms.AssemblyInfoInputs.cache
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\obj\Debug\netcoreapp3.1\Randoms.AssemblyInfo.cs
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\obj\Debug\netcoreapp3.1\Randoms.csproj.CoreCompileInputs.cache
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\obj\Debug\netcoreapp3.1\Randoms.dll
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\obj\Debug\netcoreapp3.1\Randoms.pdb
+C:\Users\btsch\Documents\Coding\C#\Randoms\Randoms\obj\Debug\netcoreapp3.1\Randoms.genruntimeconfig.cache
